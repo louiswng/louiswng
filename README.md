@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 - My research interests: Data Mining, Graph Neural Networks(GNNs), Recommender Systems.
 - Other interests: basketball, fitness, music, movie, etc.
 
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiswng&count_private=true&show_icons=true)](https://github.com/louiswng/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiswng&layout=compact)](https://github.com/louiswng/github-readme-stats)
-
-[![Louis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=louiswong)](https://github.com/louiswng/github-readme-stats)
- 
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -50,17 +44,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-<br>
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiswng&count_private=true&show_icons=true)](https://github.com/louiswng/github-readme-stats)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiswng&layout=compact)](https://github.com/louiswng/github-readme-stats)
 
+[![Louis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=louiswong)](https://github.com/louiswng/github-readme-stats)
