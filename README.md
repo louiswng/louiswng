@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
+  <!-- <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
-  &emsp;
+  &emsp; -->
   <a href="https://blog.csdn.net/weixin_44413191?spm=1000.2115.3001.5343" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
@@ -75,9 +75,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/louiswng?tab=repositories">
     <img src="https://badges.pufler.dev/repos/louiswng?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/louiswng">
+  <!-- <a href="https://gist.github.com/louiswng">
     <img src="https://badges.pufler.dev/gists/louiswng?style=flat-square&color=black&logo=github">
-  </a>
+  </a> -->
   <a href="https://github.com/louiswng">
     <img src="https://badges.pufler.dev/commits/monthly/louiswng?style=flat-square&color=black&logo=github">
   </a>
@@ -110,9 +110,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiswng&count_private=true&show_icons=true)](https://github.com/louiswng/github-readme-stats)
+<!-- [![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiswng&count_private=true&show_icons=true)](https://github.com/louiswng/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiswng&layout=compact)](https://github.com/louiswng/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiswng&layout=compact)](https://github.com/louiswng/github-readme-stats) -->
 
 [![Louis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=louiswong)](https://github.com/louiswng/github-readme-stats)
 
