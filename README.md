@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - I am an undergraduate at School of Computer Science, BUPT. <!-- Also an incoming MPhil student at Data Intelligence Lab, HKU. -->
 - My research interests: Data Mining, Graph Neural Networks(GNNs), Recommender Systems.
 - Other interests: basketball, fitness, music, movie, etc.
+- Learn more about me [here](https://louiswng.github.io).
 
 ---
 
