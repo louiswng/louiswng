@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - My research interests: Data Mining, Graph Neural Networks(GNNs), Recommender Systems.
 - Other interests: basketball, fitness, music, movie, etc.
 
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiswng&count_private=true&show_icons=true&theme=radical)
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiswng&count_private=true&show_icons=true)](https://github.com/louiswng/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiswng&layout=compact)
 
