@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![wakatime](https://wakatime.com/badge/user/6e64e8a4-5f47-4900-aa73-7ea6d02df098.svg)](https://wakatime.com/@6e64e8a4-5f47-4900-aa73-7ea6d02df098)
+[![wakatime](https://wakatime.com/badge/user/662559b9-2885-4adf-af0b-0c887cbdb9ee.svg)](https://wakatime.com/@662559b9-2885-4adf-af0b-0c887cbdb9ee)
  
 - I am an undergraduate at School of Computer Science, BUPT. <!-- Also an incoming MPhil student at Data Intelligence Lab, HKU. -->
 - My research interests: Data Mining, Graph Neural Networks(GNNs), Recommender Systems.
