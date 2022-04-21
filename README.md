@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="280" height="180" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="296" height="190" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 **Languages and Frameworks**
 
